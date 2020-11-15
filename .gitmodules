@@ -1,0 +1,12 @@
+[submodule "lib/Adafruit_FT6206_Library"]
+	path = lib/Adafruit_FT6206_Library
+	url = https://github.com/fukuen/Adafruit_FT6206_Library.git
+[submodule "lib/TFT_eSPI"]
+	path = lib/TFT_eSPI
+	url = https://github.com/fukuen/TFT_eSPI.git
+[submodule "lib/lvgl"]
+	path = lib/lvgl
+	url = https://github.com/lvgl/lvgl.git
+[submodule "lib/lv_examples"]
+	path = lib/lv_examples
+	url = https://github.com/lvgl/lv_examples.git
